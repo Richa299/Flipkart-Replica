@@ -8,10 +8,12 @@ export default function Navbar() {
   return (
     <div className="navbar">
       <img src="/assets/logo.svg" />
+
       <input type="text" placeholder="Search for Products, Brands and More" />
+
       <Button label="Login" icon={<FaRegCircleUser />} />
-      <Button icon={<IoCartOutline />} />
-      <Button icon={<MdStorefront />} />
+      <Button label="Cart" icon={<IoCartOutline />} />
+      <Button label="Become a Seller" icon={<MdStorefront />} />
     </div>
   );
 }

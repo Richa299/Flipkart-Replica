@@ -6,8 +6,12 @@
   height: 5rem;
   background-color: white;
   margin-bottom: 5px;
+  margin-top: -8px;
 }
 .navbar input {
-  width: 40rem;
-  height: 2rem;
+  width: 50rem;
+  height: 2.5rem;
+  border: none;
+  background-color: #3fc5f11f;
+  border-radius: 4px;
 }
