@@ -8,12 +8,13 @@ import contentData from "./data/contentSection.json";
 import cardData from "./data/cardContent.json";
 
 function App() {
+  console.log(contentData);
   return (
     <>
       <Navbar />
       <Category />
-      {contentData.map((item) => {
-        return <ContentSection item={item.data[0]} />;
+      {contentData[0].data.map((item) => {
+        return <ContentSection item={item} />;
       })}
       <div
         style={{
@@ -27,8 +28,8 @@ function App() {
           return <Card item={item} />;
         })}
       </div>
-      {contentData.map((item) => {
-        return <ContentSection item={item.data[1]} />;
+      {contentData[1].data.map((item) => {
+        return <ContentSection item={item} />;
       })}
       <Footer />
     </>
