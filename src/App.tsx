@@ -6,6 +6,7 @@ import Footer from "./components/footer/Footer";
 import Navbar from "./components/navbar/Navbar";
 import contentData from "./data/contentSection.json";
 import cardData from "./data/cardContent.json";
+import Carousel from "./components/carousel/Carousel";
 
 function App() {
   console.log(contentData);
@@ -13,6 +14,7 @@ function App() {
     <>
       <Navbar />
       <Category />
+      <Carousel />
       {contentData[0].data.map((item) => {
         return <ContentSection item={item} />;
       })}
