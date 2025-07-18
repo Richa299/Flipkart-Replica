@@ -1,7 +1,7 @@
 import "./button.css";
 type ButtonProp = {
   label?: string;
-  icon: any;
+  icon: React.ReactNode;
 };
 export default function Button({ label, icon }: ButtonProp) {
   return (

@@ -1,7 +1,18 @@
 import "./Card.css";
 import { IoIosArrowDroprightCircle } from "react-icons/io";
-
-export default function Card({ item }) {
+type Images = {
+  title: string;
+  src: string;
+  other: string;
+};
+type ItemProps = {
+  title: string;
+  images: Images[];
+};
+type CardProps = {
+  item: ItemProps;
+};
+export default function Card({ item }: CardProps) {
   return (
     <div className="card">
       <div
@@ -23,7 +34,7 @@ export default function Card({ item }) {
           rowGap: "5px",
         }}
       >
-        {item.images.map((item) => {
+        {item.images.map((item: Images) => {
           return (
             <div className="image-container">
               <img src={item.src} />
