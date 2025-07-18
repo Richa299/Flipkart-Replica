@@ -2,4 +2,33 @@
   width: 30rem;
   height: 40rem;
   background-color: white;
+  padding: 10px;
+  margin-right: 5px;
+}
+.card img {
+  width: 150px;
+  height: 200px;
+  object-fit: contain;
+}
+.image-container {
+  width: 150px;
+  height: 250px;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-bottom: 2rem;
+  border: 1px solid #80808040;
+  margin-left: 5px;
+  border-radius: 5px;
+}
+.image-container img {
+  margin-top: 0px;
+}
+.details p:nth-child(2) {
+  margin-top: -2px;
+  color: green;
+}
+.details {
+  font-size: 16px;
+  text-align: center;
+  font-weight: 600;
 }

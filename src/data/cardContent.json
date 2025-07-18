@@ -2,55 +2,153 @@
   {
     "title": "Fashion's Top Deals",
     "images": [
-      "./assets/fashion-1.jpeg",
-      "./assets/fashion-2.jpeg",
-      "./assets/fashion-3.jpeg",
-      "./assets/fashion-4.jpeg"
+      {
+        "src": "./assets/fashion-1.jpeg",
+        "title": "Men's T-shirt",
+        "other": "In Focus Now"
+      },
+      {
+        "src": "./assets/fashion-2.jpeg",
+        "title": "Men's Slippers",
+        "other": "Min. 70% off"
+      },
+      {
+        "src": "./assets/fashion-3.jpeg",
+        "title": "Casual Shirts",
+        "other": "Special Offer"
+      },
+      {
+        "src": "./assets/fashion-4.jpeg",
+        "title": "Sarees",
+        "other": "Special Offer"
+      }
     ]
   },
+
   {
     "title": "Make your home stylish",
     "images": [
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg",
-      "./assets/elect-3.webp",
-      "./assets/elect-1.jpeg"
+      {
+        "src": "./assets/elect-1.jpeg",
+        "title": "Projectors",
+        "other": "In Focus Now"
+      },
+      {
+        "src": "./assets/elect-2.jpeg",
+        "title": "Headsets",
+        "other": "Min. 70% off"
+      },
+      {
+        "src": "./assets/elect-3.webp",
+        "title": "Best Quality Projectors",
+        "other": "Special Offer"
+      },
+      {
+        "src": "./assets/elect-1.jpeg",
+        "title": "Headsets",
+        "other": "Special Offer"
+      }
     ]
   },
+
   {
     "title": "Season's Top Picks",
     "images": [
-      "./assets/fashion-1.jpeg",
-      "./assets/fashion-2.jpeg",
-      "./assets/fashion-3.jpeg",
-      "./assets/fashion-4.jpeg"
+      {
+        "src": "./assets/fashion-1.jpeg",
+        "title": "Men's T-shirt",
+        "other": "In Focus Now"
+      },
+      {
+        "src": "./assets/fashion-2.jpeg",
+        "title": "Men's Slippers",
+        "other": "Min. 70% off"
+      },
+      {
+        "src": "./assets/fashion-3.jpeg",
+        "title": "Casual Shirts",
+        "other": "Special Offer"
+      },
+      {
+        "src": "./assets/fashion-4.jpeg",
+        "title": "Sarees",
+        "other": "Special Offer"
+      }
     ]
   },
   {
     "title": "Fashion's Top Deals",
     "images": [
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg",
-      "./assets/elect-3.webp",
-      "./assets/elect-1.jpeg"
+      {
+        "src": "./assets/elect-1.jpeg",
+        "title": "Projectors",
+        "other": "In Focus Now"
+      },
+      {
+        "src": "./assets/elect-2.jpeg",
+        "title": "Headsets",
+        "other": "Min. 70% off"
+      },
+      {
+        "src": "./assets/elect-3.webp",
+        "title": "Best Quality Projectors",
+        "other": "Special Offer"
+      },
+      {
+        "src": "./assets/elect-1.jpeg",
+        "title": "Headsets",
+        "other": "Special Offer"
+      }
     ]
   },
   {
     "title": "Make your home stylish",
     "images": [
-      "./assets/fashion-1.jpeg",
-      "./assets/fashion-2.jpeg",
-      "./assets/fashion-3.jpeg",
-      "./assets/fashion-4.jpeg"
+      {
+        "src": "./assets/fashion-1.jpeg",
+        "title": "Men's T-shirt",
+        "other": "In Focus Now"
+      },
+      {
+        "src": "./assets/fashion-2.jpeg",
+        "title": "Men's Slippers",
+        "other": "Min. 70% off"
+      },
+      {
+        "src": "./assets/fashion-3.jpeg",
+        "title": "Casual Shirts",
+        "other": "Special Offer"
+      },
+      {
+        "src": "./assets/fashion-4.jpeg",
+        "title": "Sarees",
+        "other": "Special Offer"
+      }
     ]
   },
   {
     "title": "Season's Top Picks",
     "images": [
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg",
-      "./assets/elect-3.webp",
-      "./assets/elect-1.jpeg"
+      {
+        "src": "./assets/elect-1.jpeg",
+        "title": "Projectors",
+        "other": "In Focus Now"
+      },
+      {
+        "src": "./assets/elect-2.jpeg",
+        "title": "Headsets",
+        "other": "Min. 70% off"
+      },
+      {
+        "src": "./assets/elect-3.webp",
+        "title": "Best Quality Projectors",
+        "other": "Special Offer"
+      },
+      {
+        "src": "./assets/elect-1.jpeg",
+        "title": "Headsets",
+        "other": "Special Offer"
+      }
     ]
   }
 ]

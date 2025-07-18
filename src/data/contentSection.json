@@ -127,40 +127,118 @@
       {
         "title": "Best Of Electronic",
         "images": [
-          "./assets/elect-1.jpeg",
-          "./assets/elect-2.jpeg",
-          "./assets/elect-3.webp",
-          "./assets/elect-1.jpeg",
-          "./assets/elect-2.jpeg",
-          "./assets/elect-3.webp",
-          "./assets/elect-1.jpeg",
-          "./assets/elect-2.jpeg"
+          {
+            "src": "./assets/elect-1.jpeg",
+            "price": "₹1,999",
+            "name": "Projector"
+          },
+          {
+            "src": "./assets/elect-2.jpeg",
+            "price": "₹2,499",
+            "name": "Headset"
+          },
+          {
+            "src": "./assets/elect-3.webp",
+            "price": "₹1,799",
+            "name": "Best Projector"
+          },
+          {
+            "src": "./assets/elect-1.jpeg",
+            "price": "₹1,999",
+            "name": "Projector"
+          },
+          {
+            "src": "./assets/elect-2.jpeg",
+            "price": "₹2,499",
+            "name": "Headset"
+          },
+          {
+            "src": "./assets/elect-3.webp",
+            "price": "₹1,799",
+            "name": "Best Projector"
+          },
+          {
+            "src": "./assets/elect-1.jpeg",
+            "price": "₹1,999",
+            "name": "Projector"
+          }
         ]
       },
       {
         "title": "Beauty, Food, Toys & more",
         "images": [
-          "./assets/elect-1.jpeg",
-          "./assets/elect-2.jpeg",
-          "./assets/elect-3.webp",
-          "./assets/elect-1.jpeg",
-          "./assets/elect-2.jpeg",
-          "./assets/elect-3.webp",
-          "./assets/elect-1.jpeg",
-          "./assets/elect-2.jpeg"
+          {
+            "src": "./assets/beauty-1.jpeg",
+            "price": "₹299",
+            "name": "Coffee Powder"
+          },
+          {
+            "src": "./assets/beauty-2.jpeg",
+            "price": "₹399",
+            "name": "Cycles"
+          },
+          {
+            "src": "./assets/beauty-3.jpeg",
+            "price": "₹249",
+            "name": "Toys"
+          },
+          {
+            "src": "./assets/beauty-4.jpeg",
+            "price": "₹199",
+            "name": "Essentials"
+          },
+          {
+            "src": "./assets/beauty-5.jpeg",
+            "price": "₹349",
+            "name": "Best Toys"
+          },
+          {
+            "src": "./assets/beauty-6.jpeg",
+            "price": "₹289",
+            "name": "Dry Fruits"
+          },
+          {
+            "src": "./assets/elect-3.webp",
+            "price": "₹1,799",
+            "name": "Best Projector"
+          },
+          {
+            "src": "./assets/elect-1.jpeg",
+            "price": "₹1,999",
+            "name": "Projector"
+          }
         ]
       },
       {
         "title": "Sports, Healthcare & more",
         "images": [
-          "./assets/elect-1.jpeg",
-          "./assets/elect-2.jpeg",
-          "./assets/elect-3.webp",
-          "./assets/elect-1.jpeg",
-          "./assets/elect-2.jpeg",
-          "./assets/elect-3.webp",
-          "./assets/elect-1.jpeg",
-          "./assets/elect-2.jpeg"
+          { "src": "./assets/sports.jpeg", "price": "₹1,099", "name": "Cycle" },
+          { "src": "./assets/sport-2.jpeg", "price": "₹1,299", "name": "Oats" },
+          {
+            "src": "./assets/sports-3.jpeg",
+            "price": "₹999",
+            "name": "Food Spread"
+          },
+          {
+            "src": "./assets/sports-4.jpeg",
+            "price": "₹1,499",
+            "name": "Treadmill"
+          },
+          {
+            "src": "./assets/beauty-4.jpeg",
+            "price": "₹199",
+            "name": "Essentials"
+          },
+          {
+            "src": "./assets/beauty-5.jpeg",
+            "price": "₹349",
+            "name": "Best Toys"
+          },
+          {
+            "src": "./assets/beauty-6.jpeg",
+            "price": "₹289",
+            "name": "Dry Fruits"
+          }
         ]
       }
     ]
