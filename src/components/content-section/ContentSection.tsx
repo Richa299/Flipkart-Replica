@@ -5,7 +5,7 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "./ContentSection.css";
 
-export default function ContentSection({ item }) {
+export default function ContentSection({ item }: any) {
   return (
     <>
       <div
@@ -28,7 +28,7 @@ export default function ContentSection({ item }) {
                 1024: { slidesPerView: 6 },
               }}
             >
-              {item.images.map((img, index) => (
+              {item.images.map((img: any, index: number) => (
                 <SwiperSlide key={index}>
                   <div className="details">
                     <img src={img.src} alt={img.name} />
@@ -52,7 +52,7 @@ export default function ContentSection({ item }) {
                 1024: { slidesPerView: 7 },
               }}
             >
-              {item.images.map((img, index) => (
+              {item.images.map((img: any, index: number) => (
                 <SwiperSlide key={index}>
                   <div className="details">
                     <img src={img.src} alt={img.name} />
