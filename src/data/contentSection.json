@@ -1,41 +1,90 @@
 [
   {
-    "title": "Best Of Electronics",
-    "images": [
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg",
-      "./assets/elect-3.webp",
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg",
-      "./assets/elect-3.webp",
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg"
+    "id": "1",
+    "data": [
+      {
+        "title": "Best Of Electronics",
+        "images": [
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg"
+        ]
+      },
+      {
+        "title": "Beauty, Food, Toys & more",
+        "images": [
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg"
+        ]
+      },
+      {
+        "title": "Sports, Healthcare & more",
+        "images": [
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg"
+        ]
+      }
     ]
   },
   {
-    "title": "Beauty, Food, Toys & more",
-    "images": [
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg",
-      "./assets/elect-3.webp",
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg",
-      "./assets/elect-3.webp",
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg"
-    ]
-  },
-  {
-    "title": "Sports, Healthcare & more",
-    "images": [
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg",
-      "./assets/elect-3.webp",
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg",
-      "./assets/elect-3.webp",
-      "./assets/elect-1.jpeg",
-      "./assets/elect-2.jpeg"
+    "id": "2",
+    "data": [
+      {
+        "title": "Best Of Electronics",
+        "images": [
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg"
+        ]
+      },
+      {
+        "title": "Beauty, Food, Toys & more",
+        "images": [
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg"
+        ]
+      },
+      {
+        "title": "Sports, Healthcare & more",
+        "images": [
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg",
+          "./assets/elect-3.webp",
+          "./assets/elect-1.jpeg",
+          "./assets/elect-2.jpeg"
+        ]
+      }
     ]
   }
 ]

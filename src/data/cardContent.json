@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Fashion's Top Deals",
+    "images": [
+      "./assets/elect-1.jpeg",
+      "./assets/elect-2.jpeg",
+      "./assets/elect-3.webp",
+      "./assets/elect-1.jpeg"
+    ]
+  },
+  {
+    "title": "Make your home stylish",
+    "images": [
+      "./assets/elect-1.jpeg",
+      "./assets/elect-2.jpeg",
+      "./assets/elect-3.webp",
+      "./assets/elect-1.jpeg"
+    ]
+  },
+  {
+    "title": "Season's Top Picks",
+    "images": [
+      "./assets/elect-1.jpeg",
+      "./assets/elect-2.jpeg",
+      "./assets/elect-3.webp",
+      "./assets/elect-1.jpeg"
+    ]
+  },
+  {
+    "title": "Fashion's Top Deals",
+    "images": [
+      "./assets/elect-1.jpeg",
+      "./assets/elect-2.jpeg",
+      "./assets/elect-3.webp",
+      "./assets/elect-1.jpeg"
+    ]
+  },
+  {
+    "title": "Make your home stylish",
+    "images": [
+      "./assets/elect-1.jpeg",
+      "./assets/elect-2.jpeg",
+      "./assets/elect-3.webp",
+      "./assets/elect-1.jpeg"
+    ]
+  },
+  {
+    "title": "Season's Top Picks",
+    "images": [
+      "./assets/elect-1.jpeg",
+      "./assets/elect-2.jpeg",
+      "./assets/elect-3.webp",
+      "./assets/elect-1.jpeg"
+    ]
+  }
+]
