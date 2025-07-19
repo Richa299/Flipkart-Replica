@@ -27,13 +27,7 @@ export default function Card({ item }: CardProps) {
           style={{ color: "blue", width: "2rem", height: "2rem" }}
         />
       </div>
-      <div
-        style={{
-          display: "grid",
-          gridTemplateColumns: "auto auto",
-          rowGap: "5px",
-        }}
-      >
+      <div className="card-image-grid">
         {item.images.map((item: Images) => {
           return (
             <div className="image-container">

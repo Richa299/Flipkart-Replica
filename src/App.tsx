@@ -18,14 +18,7 @@ function App() {
       {contentData[0].data.map((item) => {
         return <ContentSection item={item} />;
       })}
-      <div
-        style={{
-          display: "grid",
-          gridTemplateColumns: "auto auto auto",
-          rowGap: "2rem",
-          marginTop: "2rem",
-        }}
-      >
+      <div className="card-grid">
         {cardData.map((item) => {
           return <Card item={item} />;
         })}

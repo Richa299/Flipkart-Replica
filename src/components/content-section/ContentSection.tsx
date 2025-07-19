@@ -54,7 +54,7 @@ export default function ContentSection({ item }: any) {
             >
               {item.images.map((img: any, index: number) => (
                 <SwiperSlide key={index}>
-                  <div className="details">
+                  <div className="image-details">
                     <img src={img.src} alt={img.name} />
                   </div>
                   <div className="pricing">
