@@ -18,7 +18,7 @@ export default function Navbar() {
         <input type="text" placeholder="Search for Products, Brands and More" />
 
         <div className="navbar-buttons desktop-only">
-          <Button label="Login" icon={<FaRegCircleUser />} />
+          <Button label="Login" icon={<FaRegCircleUser />} hover={true} />
           <Button label="Cart" icon={<IoCartOutline />} />
           <Button label="Become a Seller" icon={<MdStorefront />} />
         </div>

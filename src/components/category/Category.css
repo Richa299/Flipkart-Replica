@@ -10,6 +10,7 @@
   overflow-x: auto;
   white-space: nowrap;
   scroll-behavior: smooth;
+  justify-content: center;
 }
 
 .category::-webkit-scrollbar {
@@ -39,7 +40,7 @@
 .category div:hover {
   cursor: pointer;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 936px) {
   .category {
     margin-top: 8rem;
   }

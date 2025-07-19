@@ -95,7 +95,11 @@
             "price": "₹1,099",
             "name": "Cycle"
           },
-          { "src": "./assets/sport-2.jpeg", "price": "₹1,299", "name": "Oats" },
+          {
+            "src": "./assets/sports/sport-2.jpeg",
+            "price": "₹1,299",
+            "name": "Oats"
+          },
           {
             "src": "./assets/sports/sports-3.jpeg",
             "price": "₹999",
