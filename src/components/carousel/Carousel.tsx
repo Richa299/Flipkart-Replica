@@ -18,7 +18,6 @@ const Carousel = () => {
     <div className="carousel-container">
       <Swiper
         modules={[Navigation, Pagination, Autoplay]}
-        navigation
         loop={true}
         autoplay={{ delay: 3000, disableOnInteraction: false }}
         className="carousel-swiper"

@@ -9,7 +9,6 @@ import cardData from "./data/cardContent.json";
 import Carousel from "./components/carousel/Carousel";
 
 function App() {
-  console.log(contentData);
   return (
     <>
       <Navbar />

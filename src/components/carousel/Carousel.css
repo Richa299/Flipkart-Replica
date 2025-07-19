@@ -3,16 +3,27 @@
   max-width: 100%;
   overflow: hidden;
   margin: auto;
+  position: relative;
 }
 
 .carousel-swiper {
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .carousel-image {
   width: 100%;
   height: auto;
   object-fit: cover;
-  border-radius: 8px;
+  display: block;
+}
+@media screen and (min-width: 768px) {
+  .carousel-image {
+    max-height: 500px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .carousel-image {
+    max-height: 300px;
+  }
 }
